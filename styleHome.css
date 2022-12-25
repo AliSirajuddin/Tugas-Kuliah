@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  } 
+u{
+    font-size: 32px;
+}
+nav .navbar{
+    position: fixed;
+}
+.iconSideBar{
+    width: 40px;
+    height: 40px;
+    margin-top: 1rem;
+}
+.iconSideBar:hover{
+    color: aquamarine;
+}
+.offcanvas{
+    width: 75%;
+    height: 75%;
+    margin-top: 4rem;
+}
+.sidebar{
+    position: fixed;
+    left: 0px;
+    width: 220px;
+    height: 100%;
+    transition: all .5s ease;
+}
+.sidebar header{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+
+
+svg{
+    width: 24px;
+    height: 24px;
+    margin-right: 1rem;
+}
+
+.list{
+    width: 36px;
+    height: 36px;
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+.left{
+    margin-top: 1rem;
+}
+
+.bi{
+    width: 20;
+    height: 20;
+    margin-right: 1rem;
+}
+table{
+    margin-top: 1rem;
+    font-size: 20px;
+    margin-right: 50px;
+    padding-left: 200px;
+    margin-left: 240px;
+    max-width: 1100px;
+}
+#judul{
+    width: 100px;
+}
+#desc{
+    width: 200px;
+}
+#tombol{
+    width: 50px;
+}
+.tambah{
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.empty{
+    margin-left: 300px;
+}
